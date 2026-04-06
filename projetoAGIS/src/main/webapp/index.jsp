@@ -25,7 +25,7 @@
         <%-- Seção de Cards Inferiores Reorganizada --%>
         <div class="row mt-5 g-4 justify-content-center">
             
-            <%-- 1. Disciplinas (Movido para baixo conforme solicitado) --%>
+            <%-- 1. Disciplinas --%>
             <div class="col-md-4">
                 <div class="card h-100 shadow-sm border-0 text-center">
                     <div class="card-body">
